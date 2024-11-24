@@ -1,4 +1,4 @@
-# Uber Eats Clone Project
+# Uber Eats Project
 A full-stack application designed to emulate the core functionalities of Uber Eats. This project includes backend services built with Django REST Framework for API development, MongoDB for the database, and a frontend application developed in React with Redux for state management.
 
 ## Table of Contents
